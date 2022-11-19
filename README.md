@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Leon 👋
 
-<!--
-**GigaDroid/GigaDroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Started programming at 12 and always been focused on delivering projects with high impact
+- 24 years old and located in Berlin
+- Former tech lead at [Pflegia](https://www.pflegia.de)
+- Soon traveling around the world, while finally tinkering on my own projects again
+- For collaboration contact me at leon@kukuk.me 😄
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills
+##### 👨‍💻 Programming languages
+Java, Dart, TypeScript, JavaScript
+##### ⚙️ Frameworks and Tools
+Flutter, Android (native), React, Svelte
+##### 💽 Databases
+SQL, PostgreSQL, MongoDB
