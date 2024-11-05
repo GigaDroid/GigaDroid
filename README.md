@@ -1,16 +1,20 @@
-### Hi, I'm Leon 👋
+### Hi there, I'm Leon 👋
 
-- Started programming at 12 and always been focused on delivering projects with high impact
-- 24 years old and located in Berlin
-- Former tech lead at [Pflegia](https://www.pflegia.de)
-- Soon traveling around the world, while finally tinkering on my own projects again
-- For collaboration contact me at leon@kukuk.me 😄
+- Self-taught programmer since age 12, with a passion for building impactful solutions
+- 26 years old, based in Berlin, Germany
+- Co-founder of [Prospera](https://www.prospera.so), innovating sales training with AI
+- Former Tech Lead at [Pflegia](https://www.pflegia.de), where I helped shape tech for healthcare recruiting
+- Open to collaboration and new ideas – feel free to reach me at [leon@kukuk.me](mailto:leon@kukuk.me)
 
+---
 
-#### Skills
-##### 👨‍💻 Programming languages
-Java, Dart, TypeScript, JavaScript
-##### ⚙️ Frameworks and Tools
-Flutter, Android (native), React, Svelte
+#### 💼 Skills Overview
+
+##### 👨‍💻 Programming Languages
+- **Dart**, **Python**, **TypeScript**, **JavaScript**, **Java**
+
+##### ⚙️ Frameworks & Tools
+- **Flutter**, **FastAPI**, **React**, **Svelte**
+
 ##### 💽 Databases
-SQL, PostgreSQL, MongoDB
+- **SQL**, **PostgreSQL**, **MongoDB**
